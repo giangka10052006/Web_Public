@@ -1,0 +1,11 @@
+
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+
+  th, td {
+    padding: 10px;
+  }
+
+    .map-frame {
+      border: 0; }
