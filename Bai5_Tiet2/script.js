@@ -62,3 +62,5 @@ const person = {
 
 chuoi(person);
 console.log("----------");
+///////
+console.log("Câu 5:")
